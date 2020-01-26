@@ -1,0 +1,23 @@
+h6 {
+    padding:  0 0 15px 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    font-feature-settings: 'kern' off;
+}
+
+p {
+    margin: 0 auto;
+    padding: 0 0 10px 0;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 160.9%;
+    text-align: center;
+    letter-spacing: 0.03em;
+    max-width: 350px;
+}
+
+p.p-bold {
+    font-weight: bold;
+}
